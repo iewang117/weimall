@@ -15,6 +15,9 @@
         <module>weimall-order</module>
         <module>weimall-product</module>
         <module>weimall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>weimall-common</module>
     </modules>
 
 </project>
