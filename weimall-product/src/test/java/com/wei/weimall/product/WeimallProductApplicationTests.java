@@ -2,7 +2,7 @@ package com.wei.weimall.product;
 
 import com.wei.weimall.product.entity.BrandEntity;
 import com.wei.weimall.product.service.BrandService;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 

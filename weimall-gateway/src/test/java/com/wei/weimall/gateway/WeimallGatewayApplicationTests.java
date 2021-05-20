@@ -1,10 +1,11 @@
-package com.wei.weimall.coupon;
+package com.wei.weimall.gateway;
+
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WeimallCouponApplicationTests {
+class WeimallGatewayApplicationTests {
 
     @Test
     void contextLoads() {
